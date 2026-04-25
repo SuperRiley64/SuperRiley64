@@ -5,4 +5,4 @@ I'm a software developer in aerospace, an electronic musician, and a mad compute
 ## Old projects:
 https://github.com/RKnybel
 
-## Music: FÆline on all platforms
+## Music: Faeline Prophecy on all platforms
