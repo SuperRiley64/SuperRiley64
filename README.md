@@ -2,7 +2,7 @@
 
 I'm a software developer in the aerospace industry with interests in desktop applications, digital signal processing, systems programming, and machine learning.
 
-Outside of work I enjoy building synthesizers, emulators, and other programming projects just because they're fun.
+Outside of work, I enjoy building synthesizers, emulators, and other programming projects just because they're fun.
 
 ## Current Projects:
 🎸String Engine
@@ -21,7 +21,8 @@ Outside of work I enjoy building synthesizers, emulators, and other programming 
 - SQLite database for blog posts
 - Python
 
-And plenty of experiments and side projects along the way.
+...and plenty of experiments and side projects along the way.
 
-## Other Projects from College:
+## Other Projects:
+Many of my university projects can be found here:
 https://github.com/RKnybel
