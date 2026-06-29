@@ -1,6 +1,8 @@
 # Howdy! I'm Riley.
 
-I'm a software developer in aerospace, an electronic musician, and a mad computer scientist. Let me show you what I got.
+I'm a software developer in the aerospace industry with interests in desktop applications, digital signal processing, systems programming, and machine learning.
+
+Outside of work I enjoy building synthesizers, emulators, and other programming projects just because they're fun.
 
 ## Projects from College (Also very cool!):
 https://github.com/RKnybel
