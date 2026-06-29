@@ -4,5 +4,5 @@ I'm a software developer in the aerospace industry with interests in desktop app
 
 Outside of work I enjoy building synthesizers, emulators, and other programming projects just because they're fun.
 
-## Projects from College (Also very cool!):
+## Other Projects from College:
 https://github.com/RKnybel
