@@ -12,13 +12,13 @@ Outside of work, I enjoy building synthesizers, emulators, and other programming
 
 👾CHIP-8 Emulator
 - SDL3
-- Cross-platform
+- Cross-platform desktop application
 - Rust
 
 🛜Riles.life
 - Personal website for portfolio and blog
-- Built with the Django
-- SQLite database for blog posts
+- Built with Django
+- SQLite-backed blog engine with markdown support
 - Python
 
 ...and plenty of experiments and side projects along the way.
